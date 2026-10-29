@@ -1,0 +1,4 @@
+solver/*.bin
+solver/sampler
+solver/sampler.exe
+__pycache__/
